@@ -11,7 +11,7 @@ Identificar padrões de distribuição da qualidade de vida nos municípios mine
 **Perguntas de negócio respondidas**
 
 1. Quais municípios de MG têm melhor e pior qualidade de vida?
-2. Renda, educação e saneamento andam juntos — ou há municípios com perfis contraditórios?
+2. Como é a relação entre renda, educação e saneamento nos municípios?
 3. Há padrão regional na distribuição da qualidade de vida?
 4. Quais dimensões mais diferenciam municípios com alto e baixo IDH?
 5. O que os dados sugerem como prioridades para políticas públicas baseadas em evidências?
