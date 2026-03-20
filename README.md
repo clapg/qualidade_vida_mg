@@ -16,3 +16,5 @@ Identificar padrões de distribuição da qualidade de vida nos municípios mine
 4. Quais dimensões mais diferenciam municípios com alto e baixo IDH?
 5. O que os dados sugerem como prioridades para políticas públicas baseadas em evidências?
 
+**Situação do projeto**
+Em andamento
