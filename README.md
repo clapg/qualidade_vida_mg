@@ -27,4 +27,5 @@ explicam as desigualdades inter-municipais observadas, e propor uma agenda anal�
 
 
 **Situação do projeto**
+
 Em andamento
