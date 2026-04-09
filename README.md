@@ -18,6 +18,7 @@ explicam as desigualdades inter-municipais observadas, e propor uma agenda anal�
 6. Onde políticas de SmartCity podem gerar mais impacto?
 
 **Fontes de dados**
+| Arquivo | Fonte | Ano de referência |
 |---|---|---|
 | `data.xlsx` | Atlas Brasil — PNUD, IPEA e FJP | 2000 e 2010 |
 | `DadosConsulta.csv` | IMRS — Fundação João Pinheiro (FJP Dados) | 2019–2020 |
