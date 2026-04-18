@@ -11,11 +11,11 @@ explicam as desigualdades inter-municipais observadas, e propor uma agenda anal�
 
 **Perguntas de negócio**
 
-1. Como a cidade se posiciona em qualidade de vida entre os 853 municípios de MG?
-2. A qualidade de vida em Uberlândia melhorou entre 1991 e 2022?
-3. Quais indicadores sociais ainda representam desafios para a gestão pública?
-4. Uberlândia lidera os indicadores de qualidade de vida entre as maiores cidades de MG, ou há municípios com desempenho superior a ser tomado como referência?
-5. Onde políticas de SmartCity podem gerar mais impacto?
+1. Como a cidade se posiciona entre os 853 municípios de MG?
+2. A qualidade de vida melhorou entre 1991 e 2022? Em quais dimensões o progresso foi mais expressivo?
+3. Quais indicadores ainda representam desafios?
+4. Como nos comparamos a Juiz de Fora, Contagem, Betim e Montes Claros?
+5. Em quais dimensões concentram os maiores gaps de desenvolvimento e demandam maior atenção das políticas públicas?
 
 **Fontes de dados**
 | Arquivo | Fonte | Ano de referência |
